@@ -9,7 +9,7 @@
 
 - **`targetSelector`** (`string`): A CSS selector string to identify the clickable elements. This can be a class, ID, or tag name. The function applies the scroll behavior to these elements.
 
-- **`offset`** (`number`): The offset (in pixels) to adjust the scroll position from the top of the section. Default is `0`.
+- **`offset`** (`number`): The offset to adjust the scroll position from the top of the section. Default is `0`.
 
 ### Description:
 
