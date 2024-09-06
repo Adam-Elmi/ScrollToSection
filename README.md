@@ -44,6 +44,7 @@ scrollToSection(['section1', 'section2', 'section3'], 'a', 50);
 <a href="#" data-target="section1">Go to Section 1</a>
 <a href="#" data-target="section2">Go to Section 2</a>
 <a href="#" data-target="section3">Go to Section 3</a>
+
 <div id="section1">Section 1 Content</div>
 <div id="section2">Section 2 Content</div>
 <div id="section3">Section 3 Content</div>
@@ -58,6 +59,7 @@ scrollToSection(['section1', 'section2', 'section3'], '.scroll-link', 50);
 <a class="scroll-link" data-target="section1">Go to Section 1</a>
 <a class="scroll-link" data-target="section2">Go to Section 2</a>
 <a class="scroll-link" data-target="section3">Go to Section 3</a>
+
 <div class="section" id="section1">Section 1 Content</div>
 <div class="section" id="section2">Section 2 Content</div>
 <div class="section" id="section3">Section 3 Content</div>
@@ -72,6 +74,7 @@ scrollToSection(['section1', 'section2', 'section3'], '#scroll-link', 50);
 <a id="scroll-link" data-target="section1">Go to Section 1</a>
 <a id="scroll-link" data-target="section2">Go to Section 2</a>
 <a id="scroll-link" data-target="section3">Go to Section 3</a>
+
 <div id="section1">Section 1 Content</div>
 <div id="section2">Section 2 Content</div>
 <div id="section3">Section 3 Content</div>
