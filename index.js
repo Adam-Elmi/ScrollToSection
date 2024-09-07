@@ -2,9 +2,9 @@
  * Handles smooth scrolling to different sections of a webpage when clickable elements are activated.
  * 
  * @param {Array<string>} contents - An array of strings representing class names or IDs of target sections. 
- *                                    The function scrolls to these sections when their corresponding elements are clicked.
+ * The function scrolls to these sections when their corresponding elements are clicked.
  * @param {string} targetSelector - A CSS selector string identifying clickable elements. 
- *                                    This can be a class, ID, or tag name.
+ * This can be a class, ID, or tag name.
  * @param {number} [offset=0] - The offset to adjust the scroll position from the top of the section. Defaults to 0.
  */
 
