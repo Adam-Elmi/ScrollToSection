@@ -1,4 +1,4 @@
-### NobleUtils - `scrollToSection` Utility
+### NobleTools - `scrollToSection` Utility
 
 ### Function: 
 - `scrollToSection(contents, targetSelector, offset)`
