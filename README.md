@@ -82,4 +82,4 @@ scrollToSection(['section1', 'section2', 'section3'], '#scroll-link', 50);
 
 ### Installation
 
-Installation details for NobleUtils will be provided soon.
+Installation details for NobleTools will be provided soon.
